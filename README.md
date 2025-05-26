@@ -29,4 +29,6 @@ automation:
     actions:
       - action: velux.reboot_gateway
 ```
-11. That's pretty much it. Power cycle the KLF200 and restart HA and you should be in business.
+11. That's pretty much it. Power cycle the KLF200 and restart HA and you should be in business with multiple cover entities created.
+![image](https://github.com/user-attachments/assets/2bbeaa0b-d36c-4500-8708-b05520ebbede)
+
