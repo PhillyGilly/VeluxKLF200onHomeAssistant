@@ -1,7 +1,7 @@
 # Velux KLF 200 on Home Assistant
 
 I found a how-to guide somewhere and now can't find the author so big apologies for not attributing it.  
-However I have two Velux windows with electric opening and electric blinds which I controlled using Velux remote. However - for the usual reasons - I wanted to bring them into my Home Assitant eco-system.
+However I have two Velux windows with electric opening and electric blinds which I controlled using Velux remote, and - for the usual reasons - I wanted to bring them into my Home Assitant eco-system.
 
 ## Set up the KLF200
 1. On power on the KLF is LAN disabled and Wifi enabled for 10 minutes
